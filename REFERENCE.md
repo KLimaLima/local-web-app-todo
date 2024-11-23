@@ -1,0 +1,8 @@
+- [freecodecamp](https://www.freecodecamp.org/news/how-to-build-an-event-app-with-node-js/)
+- [video](https://www.youtube.com/watch?v=fc6o1gwqZuA)
+- [video](https://www.youtube.com/watch?v=sbt9XbAXb94)
+- [video](https://www.youtube.com/watch?v=VmY22KuRDbk)
+- [video](https://www.youtube.com/watch?v=Cv0LdP_B5aI)
+- [video](https://www.youtube.com/watch?v=_RtpUaBSie0)
+- [video](https://www.youtube.com/watch?v=ZRYn6tgnEgM)
+- [sqlite3](https://www.npmjs.com/package/sqlite3)
